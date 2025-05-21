@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Student Data Management System with Batch Import
 
 ## Project info
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0a6536a7-0467-412b-96a2-5420be9d1ddc) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/0a6536a7-0467-412b-96a2-5420be9d1ddc).
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -52,7 +52,7 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with:
+This project is built with Tech Stack:
 
 - Vite
 - TypeScript
@@ -63,6 +63,7 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/0a6536a7-0467-412b-96a2-5420be9d1ddc) and click on Share -> Publish.
+Deployed the Project In Azure DevOps By implementing CI/CD Pipelines.
 
 ## Can I connect a custom domain to my Lovable project?
 
