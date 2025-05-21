@@ -77,6 +77,7 @@ This project is built with Tech Stack:
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/0a6536a7-0467-412b-96a2-5420be9d1ddc) and click on Share -> Publish.
+
 Deployed the Project In Azure DevOps By implementing CI/CD Pipelines.
 
 ## Can I connect a custom domain to my Lovable project?
