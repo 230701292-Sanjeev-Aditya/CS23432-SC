@@ -2,6 +2,17 @@
 
 ## Project info
 
+● Designed a system for managing student data like names,
+grades, and courses.
+● Allow instructors to upload a CSV (Comma-Separated
+Values) file containing student information for bulk
+import.
+● Allow parallel processing for the above ie, instructors
+can upload multiple CSV files in parallel
+● Implement data validation to ensure correct format and
+identify potential errors before processing.
+● Implement CRUD and Search features for Student details.
+
 **URL**: https://lovable.dev/projects/0a6536a7-0467-412b-96a2-5420be9d1ddc
 
 ## How can I edit this code?
